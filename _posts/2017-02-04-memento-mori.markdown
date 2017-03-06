@@ -6,12 +6,6 @@ categories: poetry spanish
 location: Brooklyn, NY
 ---
 
-<style type="text/css">
-    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px;}
-    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; text-indent: 18.0px; min-height: 17.0px}
-    p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; text-indent: 18.0px;}
-</style>
-
 <p class="p3">En el vasto universo de una novela</p>
 <p class="p3">o en los espacios vacíos de un poema;</p>
 <p class="p3">en los abrazos tibios a una amada</p>
