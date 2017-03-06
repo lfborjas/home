@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Memento Mori"
-date: 2017-03-05 21:09:16 -0500
+date: 2017-02-04 21:09:16 -0500
 categories: poetry spanish
 location: Brooklyn, NY
 ---
@@ -34,6 +34,3 @@ location: Brooklyn, NY
 <p class="p3">y si no te dejé nada, igual mío,</p>
 <p class="p3">¿a qué vine a este deceso ralentado?</p>
 <p class="p2"><br></p>
-
-
-
