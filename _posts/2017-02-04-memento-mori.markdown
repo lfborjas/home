@@ -13,7 +13,7 @@ location: Brooklyn, NY
 </style>
 
 <p class="p3">En el vasto universo de una novela</p>
-<p class="p3">o en los espacios vacíos de una poesía;</p>
+<p class="p3">o en los espacios vacíos de un poema;</p>
 <p class="p3">en los abrazos tibios a una amada</p>
 <p class="p3">o en el oído presto a la familia;</p>
 <p class="p3">en el fruto de la labor</p>
