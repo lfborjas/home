@@ -1,0 +1,29 @@
+---
+layout: post
+title: "Thaw"
+date: 2017-03-04 16:09:16 -0500
+categories: poetry english
+location: Brooklyn, NY
+---
+
+<p class="p3">Union Square at night,</p>
+<p class="p3">warm winter eve, out walking;</p>
+<p class="p3">the trees smell like spring</p>
+<p class="p3">the stars above are just planes</p>
+<p class="p3">— winter fades, my resolve thaws.</p>
+<p class="p2"><br></p>
+<p class="p3">Closer to midnight,</p>
+<p class="p3">half a moon in my window</p>
+<p class="p3">memento mori;</p>
+<p class="p3">she will wax and wane always</p>
+<p class="p3">we will wax and wane just once.</p>
+<p class="p2"><br></p>
+<p class="p3">I count syllables</p>
+<p class="p3">working hard at the forms</p>
+<p class="p3">that slowly erode</p>
+<p class="p3">sepulchers where I’ve hidden</p>
+<p class="p3">the echoes that I’ve gathered.</p>
+<p class="p2"><br></p>
+<p class="p3">These I will put forth,</p>
+<p class="p3">imperfect but nigh complete,</p>
+<p class="p3">in these brevities.</p>
