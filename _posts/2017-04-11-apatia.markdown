@@ -1,0 +1,32 @@
+---
+layout: post
+title: "Apatía"
+date: 2017-04-11 16:09:16 -0500
+categories: poetry spanish
+location: Brooklyn, NY
+---
+
+<p class="p3">Nos hacemos los locos y desviamos la mirada,</p>
+<p class="p3">lo aprendemos en la infancia con inocencia</p>
+<p class="p3">esperamos que al final toda falta sea perdonada</p>
+<p class="p2"><br></p>
+<p class="p3">Porque, jóvenes, toda oportunidad nos es dada</p>
+<p class="p3">para aplazar cada incomodidad de la existencia:</p>
+<p class="p3">nos hacemos los locos y desviamos la mirada.</p>
+<p class="p2"><br></p>
+<p class="p3">Con esmero y luego con derrota, reprobamos cada</p>
+<p class="p3">reto que cuestiona duramente la conciencia:</p>
+<p class="p3">esperamos que al final toda falta sea perdonada</p>
+<p class="p2"><br></p>
+<p class="p3">Pronto la apatía, tan profundamente arraigada</p>
+<p class="p3">que el dolor ajeno nos asusta y nos colma la paciencia;</p>
+<p class="p3">nos hacemos los locos y desviamos la mirada.</p>
+<p class="p2"><br></p>
+<p class="p3">Volvemos cada día, exánimes, a nuestra morada</p>
+<p class="p3">y juramos hacer algo por paliar la reticencia</p>
+<p class="p3">— esperamos que al final toda falta sea perdonada.</p>
+<p class="p2"><br></p>
+<p class="p3">Pero cuando se para el reloj de esta vida fiada,</p>
+<p class="p3">cuando entramos en la niebla de la senescencia</p>
+<p class="p3">nos hacemos los locos y desviamos la mirada:</p>
+<p class="p3">esperamos que al final toda falta sea perdonada.</p>

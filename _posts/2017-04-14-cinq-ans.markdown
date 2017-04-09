@@ -1,0 +1,37 @@
+---
+layout: post
+title: "Cinq Ans"
+date: 2017-04-14 16:09:16 -0500
+categories: poetry english
+location: Brooklyn, NY
+---
+
+<p class="p3"><span class="s1">I sit</span></p>
+<p class="p3"><span class="s1">in the L train</span></p>
+<p class="p3"><span class="s1">devouring some Borges</span></p>
+<p class="p3"><span class="s1">when my mind sets off on tangents</span></p>
+<p class="p3"><span class="s1">and yearns.</span></p>
+<p class="p4"><span class="s1"></span><br></p>
+<p class="p3"><span class="s1">Questions</span></p>
+<p class="p3"><span class="s1">begin to form</span></p>
+<p class="p3"><span class="s1">asking myself if I</span></p>
+<p class="p3"><span class="s1">will be writing verses five years</span></p>
+<p class="p3"><span class="s1">from now.</span></p>
+<p class="p4"><span class="s1"></span><br></p>
+<p class="p3"><span class="s1">I sigh</span></p>
+<p class="p3"><span class="s1">to remember</span></p>
+<p class="p3"><span class="s1">all that I’ve taken up</span></p>
+<p class="p3"><span class="s1">with febrile enthusiasm is</span></p>
+<p class="p3"><span class="s1">now gone.</span></p>
+<p class="p4"><span class="s1"></span><br></p>
+<p class="p3"><span class="s1">Perhaps</span></p>
+<p class="p3"><span class="s1">I could expect</span></p>
+<p class="p3"><span class="s1">now that I graze thirty</span></p>
+<p class="p3"><span class="s1">all that I thought lost may return</span></p>
+<p class="p3"><span class="s1">in time.</span></p>
+<p class="p4"><span class="s1"></span><br></p>
+<p class="p3"><span class="s1">In this</span></p>
+<p class="p3"><span class="s1">reassuring</span></p>
+<p class="p3"><span class="s1">dubious epiphany</span></p>
+<p class="p3"><span class="s1">I can take solace and read more</span></p>
+<p class="p3"><span class="s1">Borges.</span></p>
