@@ -154,4 +154,3 @@ location: Brooklyn, NY
 <p class="p3"><span class="Apple-tab-span">	</span>que aún con razón me espanta</p>
 <p class="p3">sino en los míos y su amor fundamental</p>
 <p class="p3"><span class="Apple-tab-span">	</span>que hoy me hace falta, tanta.</p>
-</div>
