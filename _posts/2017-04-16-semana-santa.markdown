@@ -97,9 +97,7 @@ location: Brooklyn, NY
 <p class="p3">en la ceniza del pavor.</p>
 <p class="p3">Perdona.</p>
 <p class="p2"><br></p>
-<a href="#domingo-de-pascua">
 <h3 id="domingo-de-pascua" style="margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px "><b>Domingo de Pascua</b></h3>
-</a>
 <p class="p2"><br></p>
 <p class="p3">Las tardes sudorosas en un carro</p>
 <p class="p3"><span class="Apple-tab-span">	</span>con el sol en la ventana</p>
