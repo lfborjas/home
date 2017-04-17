@@ -6,7 +6,7 @@ categories: poetry spanish
 location: Brooklyn, NY
 ---
 
-<h3 style="margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px "><b>Domingo de Ramos</b></h3>
+<h3 id="domingo-de-ramos" style="margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px "><b>Domingo de Ramos</b></h3>
 <h3 style="margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px ; min-height: 14.0px"><b></b><br></h3>
 <p class="p3">En los altares de mi Tegucigalpa eterna</p>
 <p class="p3">que tanto figuraron en mi infancia ingenua</p>
@@ -27,7 +27,7 @@ location: Brooklyn, NY
 <p class="p3"><span class="Apple-tab-span">	</span>en los altares.</p>
 <p class="p2"><br></p>
 <p class="p2"><br></p>
-<h3 style="margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px "><b>Tenebrae</b></h3>
+<h3 id="tenebrae" style="margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px "><b>Tenebrae</b></h3>
 <p class="p2"><br></p>
 <p class="p3">Fue cuando adolescente<span class="Apple-converted-space">    </span>que perdí una religión</p>
 <p class="p3">que solo adoptamos<span class="Apple-converted-space">    </span>en pro de mi educación</p>
@@ -50,7 +50,7 @@ location: Brooklyn, NY
 <p class="p3">un día cualquiera me fui,<span class="Apple-converted-space">    </span>y mantuve mi distancia.</p>
 <p class="p2"><br></p>
 <p class="p2"><br></p>
-<h3 style="margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px "><b>Viernes Santo</b></h3>
+<h3 id="viernes-santo" style="margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px "><b>Viernes Santo</b></h3>
 <h3 style="margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px ; min-height: 14.0px"><b></b><br></h3>
 <p class="p3">Perseguido por fantasmas</p>
 <p class="p3">y por los ácidos miasmas</p>
@@ -97,7 +97,9 @@ location: Brooklyn, NY
 <p class="p3">en la ceniza del pavor.</p>
 <p class="p3">Perdona.</p>
 <p class="p2"><br></p>
-<h3 style="margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px "><b>Domingo de Pascua</b></h3>
+<a href="#domingo-de-pascua">
+<h3 id="domingo-de-pascua" style="margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px "><b>Domingo de Pascua</b></h3>
+</a>
 <p class="p2"><br></p>
 <p class="p3">Las tardes sudorosas en un carro</p>
 <p class="p3"><span class="Apple-tab-span">	</span>con el sol en la ventana</p>
