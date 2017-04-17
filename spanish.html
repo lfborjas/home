@@ -1,0 +1,9 @@
+---
+layout: default
+---
+
+<ul>
+{% for post in site.categories.spanish %}
+  {% include el.html post=post %}
+{% endfor %}
+</ul>
