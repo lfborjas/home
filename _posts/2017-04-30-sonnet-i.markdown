@@ -1,0 +1,22 @@
+---
+layout: post
+title: "Sonnet I"
+date: 2017-04-30 16:09:16 -0500
+categories: poetry english
+location: Brooklyn, NY
+---
+
+<p class="p3">I sit again before the blinking page</p>
+<p class="p3">and try again to tackle the ordeal</p>
+<p class="p3">to sift through words I’ve borrowed, to reveal</p>
+<p class="p3">the very little that I’ve learned with age.</p>
+<p class="p3">Sometimes it’s hard for me to try and gauge</p>
+<p class="p3">if meter, rhyme or rhythm are ideal</p>
+<p class="p3">or if the anglophones will find appeal</p>
+<p class="p3">in these poetic musings I engage.</p>
+<p class="p3">And yet I self-impose this sweetest strife</p>
+<p class="p3">to find the words for that which, silent, looms</p>
+<p class="p3">behind the borrowed days of this new life</p>
+<p class="p3">that thrives and grows despite the many dooms</p>
+<p class="p3">that pop up every day; this is a knife</p>
+<p class="p3">to cut through my own veil, and see what blooms.</p>
