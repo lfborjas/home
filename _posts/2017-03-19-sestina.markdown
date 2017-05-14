@@ -50,4 +50,4 @@ location: Brooklyn, NY
 <p class="p2"><br></p>
 <p class="p3">Salúdenme a la montaña, mis estimadísimos bandidos</p>
 <p class="p3">sepan que aunque sea en el recuerdo, les sigo los pasos;</p>
-<p class="p3">en esta esquina de lo eterno exhorto a otros: emulen ese sendero.</p>
+<p class="p3">que sigan encontrando lo eterno en esos senderos..</p>
